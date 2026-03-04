@@ -62,18 +62,6 @@ Dashboard Features:
 - Revenue trend shows steady growth between 2022 and 2023.
 
 ---
-## Project Structure
-
-```
-Retail_Order_Data_Analysis/
-│
-├── app.py
-├── cleaned_orders.csv
-├── SQL_Queries.sql
-├── Retail_Order_Data_Analysis_GUVI_Report_Compact.pdf
-├── requirements.txt
-└── README.md
-```
 
 ## Author
 **Iliyaz Ahamed**  
